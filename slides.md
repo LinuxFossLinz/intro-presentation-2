@@ -59,7 +59,7 @@ p{
 <div class="flex">
 <div class="center">
 
-![width:250px left](img/speaker/Robert-Führicht.png)
+![width:250px left](img/speaker/schoendorfer.png)
 ### Michael Schöndorfer
 <div class="spacing">
 
@@ -72,7 +72,7 @@ co-founder & CTO @ hello again
 
 <div class="center">
 
-![width:250px right](./img/speaker/knittl.png)
+![width:250px right](./img/speaker/alireza.webp)
 ### Alireza Sadraii Rad
 <div class="spacing">
 
