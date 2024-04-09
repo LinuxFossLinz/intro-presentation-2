@@ -2,7 +2,7 @@
 title: Linux-FOSS-Meetup-Linz
 version: 1.0.0
 theme: dracula
-footer: Linux-FOSS Linz #1
+footer: Linux-FOSS Linz #2
 paginate: true
 marp: true
 size: 4K
@@ -14,62 +14,15 @@ style: |
   }
 ---
 
-# Linux-FOSS Linz #1
+# Linux / FOSS Linz #2
 
 <style scoped>
 h1 {
-    padding-top: 1.5em;
-    font-size: 3.5rem;
-}
-</style>
-
----
-
-<style scoped>
-.flex{
-    display: flex;
-    justify-content: space-around;
-}
-img{
-    border-radius: 50%;
-}
-.center{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 1.2rem;
-}
-h3{
+    padding-top: 2em;
+    font-size: 3rem;
     text-align: center;
 }
-.vert-center{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 100%;
-}
 </style>
-<div class="vert-center">
-<div class="flex">
-<div class="center">
-
-![width:250px left](./img/hofer.jpeg)
-### Jakob Hofer
-</div>
-
-<div class="center">
-
-![width:250px right](./img/holzbauer.jpeg)
-### Lorenz Holzbauer
-</div>
-<div class="center">
-
-![width:250px right](./img/stenz.jpeg)
-### Michael Stenz
-</div>
-</div>
-</div>
-
 
 ---
 <style scoped>
@@ -101,34 +54,32 @@ p{
 .spacing > * {
     width: 100%;
 }
-
 </style>
 <div class="vert-center">
 <div class="flex">
 <div class="center">
 
 ![width:250px left](img/speaker/Robert-Führicht.png)
-### Robert Führicht
+### Michael Schöndorfer
 <div class="spacing">
 
-Platform Engineer
-@ uni software plus
+co-founder & CTO @ hello again
 </div>
 
-**Automatic Backups using Borgmatic**
+<b style="font-size: 0.7em">How hello again uses OSS to build and maintain over 1000 Apps</b>
 
 </div>
 
 <div class="center">
 
 ![width:250px right](./img/speaker/knittl.png)
-### Daniel Knittl-Frank
+### Alireza Sadraii Rad
 <div class="spacing">
 
-Software-Engineer
+Software Developer @ Miba AG
 </div>
 
-**Episode VIM - Return of the editor**
+**The WIIZ Story: Self-Hosting for Freedom**
 </div>
 </div>
 </div>
@@ -137,19 +88,10 @@ Software-Engineer
 ---
 
 ## Schedule
--  **18:30 - 19:15**: Talk #1 - Backups by Robert Führicht
+-  **18:30 - 19:15**: Talk #1 - OSS @ hello again
 -  **19:15 - 19:30**: Questions & Break
--  **19:30 - 20:15**: Talk #2 - Vim by Daniel Knittl-Frank
+-  **19:30 - 20:15**: Talk #2 - The WIIZ Story
 -  **20:15 - open end**: Questions, Networking, ...
-
----
-
-## Drinks
-
-- Call us so we can hold the card onto the sensor
-- Enjoy your drink!
-
-![bg right](./img/drinks_grand_garage_red.jpg)
 
 ---
 
@@ -181,67 +123,17 @@ h3{
 
 <div class="center">
 
+![height:200px left](./img/sponsors/hello-again.jpeg)
+### Hello Again
+</div>
+
+
+<div class="center">
+
 ![height:200px left](./img/sponsors/coding_club.png)
 ### Coding Club
 </div>
 
-<div class="center">
-
-![height:200px left](./img/sponsors/grand_garage.png)
-### Grand Garage
-</div>
-
-
-</div>
-</div>
-
----
-<style>
-.flex {
-    display: flex;
-    justify-content: space-around;
-}
-.image {
-	margin-right: 100px;
-}
-</style>
-
-# alles-digital.org
-
-<!-- _backgroundColor: "#ffffff" -->
-<!-- _color: "#000000" -->
-
-<div class=flex>
-<div class=image>
-
-![height:300px left](./img/sponsors/alles_digital.png)
-
-</div>
-
-Everything digital for our customers. That is our mission. Not somehow, but in the most efficient way and with the best possible result - a successful and sustainable digital business model.
-
-</div>
-
----
-
-# Discord Server
-
-<style scoped>
-.flex{
-    display: flex;
-    justify-content: space-between;
-}
-p {
-    text-align: center;
-}
-</style>
-<div class="flex">
-
-![width:400px left](./img/discord.png)
-<div>
-
-![width:400px right](./img/discord_qr.png)
-https://discord.gg/vxgBuVVcbt
 </div>
 </div>
 
@@ -273,3 +165,34 @@ https://sessionize.com/linux-foss-linz-meetup/
 - also talk to your employer!
 
 linuxfosslinz@proton.me
+
+---
+
+<style scoped>
+.center {
+    text-align: center;
+}
+</style>
+
+<div class="center">
+
+
+<br>
+<br>
+
+# Website
+https://linuxfosslinz.github.io
+
+Slides of future meetups
+Slides of the first meetup are online!
+
+</div>
+
+---
+
+## Thank you to the host!
+
+
+# hello again
+![width:350px bg right:40%](img/sponsors/hello-again.jpeg)
+https://www.hello-again.com
